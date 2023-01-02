@@ -1,0 +1,15 @@
+/contracts/artifacts/
+/node_modules/
+/.idea/
+/secrets.json
+/scripts/
+/build/
+/test/
+/bin/*
+/accounts.json
+*.log
+.secret
+.secret_git
+.apikey_*
+yarn.lock
+package-lock.json
